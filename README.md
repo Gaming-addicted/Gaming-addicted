@@ -22,6 +22,18 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaming-addicted&show_icons=true&locale=en&layout=compact" alt="Gaming-addicted" />
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaming-addicted&show_icons=true&locale=en" alt="Gaming-addicted"/>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaming-addicted&" alt="Gaming-addicted" />
+</p>
+
 <!---
 Gaming-addicted/Gaming-addicted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
