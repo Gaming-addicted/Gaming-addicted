@@ -27,8 +27,8 @@
 </p> 
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Gaming-addicted&show_icons=true&locale=en&theme=tokyonight" alt="Gaming-addicted"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaming-addicted&theme=tokyonight" alt="Gaming-addicted" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Gaming-addicted&show_icons=true&locale=en&theme=tokyonight" alt="Gaming-addicted"/>
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaming-addicted&theme=tokyonight" alt="Gaming-addicted" />
 </p>
 
 <!---
