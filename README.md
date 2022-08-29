@@ -27,7 +27,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaming-addicted&show_icons=true&locale=en&" alt="Gaming-addicted"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaming-addicted&show_icons=true&locale=en&theme=tokyonight" alt="Gaming-addicted"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaming-addicted&theme=tokyonight" alt="Gaming-addicted" />
 </p>
 
