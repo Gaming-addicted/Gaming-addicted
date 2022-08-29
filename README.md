@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaming-addicted&show_icons=true&locale=en&layout=compact" alt="Gaming-addicted" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaming-addicted&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gaming-addicted" />
 </p> 
 
 <p align="center">
