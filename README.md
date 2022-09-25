@@ -32,10 +32,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 </p>
-
-<div align="center">
-    <script src="https://tryhackme.com/badge/1354294"></script>
-</div>
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/autodidact28.png" alt="TryHackMe">
+</p>
 
 <p align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaming-addicted&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gaming-addicted" />
