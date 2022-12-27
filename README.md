@@ -39,7 +39,7 @@
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=autodidact28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="autodidact28" />
 </p> 
 <p align="center">
-  <script src="https://tryhackme.com/badge/1354294"></script>
+  <script src="https://tryhackme.com/badge/1354294">mayank</script>
 </p>
 
 <p align="center">
