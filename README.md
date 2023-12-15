@@ -42,8 +42,8 @@
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=autodidact28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="autodidact28" />
 </p>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=autodidact28&show_icons=true&locale=en&theme=tokyonight" alt="autodidact28"/>
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=autodidact28&theme=tokyonight" alt="autodidact28" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=autodidact28&show_icons=true&locale=en&theme=tokyonight" alt="autodidact28"/>
+  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=autodidact28&theme=tokyonight" alt="autodidact28" />
 </p>
 
 <!---
